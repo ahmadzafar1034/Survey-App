@@ -1,0 +1,160 @@
+// Prisma schema for University Student Survey 2026
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model SurveyResponse {
+  id              String   @id @default(cuid())
+  // Identification metadata
+  processingCode  String?
+  questionnaireId String?
+  dateOfSurvey    String?
+  enumeratorId    String?
+  screenedYes     Boolean  @default(true)
+
+  // ===== SECTION 1: Student Profile =====
+  q1_1_university       String?
+  q1_1_university_other String?
+  q1_2_field            String?
+  q1_2_field_other      String?
+  q1_3_name             String?
+  q1_4_age              Int?
+  q1_5_gender           String?
+  q1_6_maritalStatus    String?
+  q1_7_semester         String?
+  q1_7_semester_other   String?
+  q1_8_residence        String?
+  q1_8_residence_other  String?
+  q1_9_disability       String?
+
+  // ===== SECTION 2: Family & Socio-Economic Background =====
+  q2_1_fatherEdu       String?
+  q2_1_motherEdu       String?
+  q2_1_edu_other       String?
+  q2_2_incomeSource    String?
+  q2_2_income_other    String?
+  q2_3_housingStatus   String?
+  q2_3_housing_other   String?
+  q2_4_siblings        String?
+  q2_5_monthlyIncome   String?
+
+  // ===== SECTION 3: Educational Journey =====
+  q3_1_intermediatePct String?
+  q3_2_uniChoiceReason String?
+  q3_3_subjectReason   String?
+  q3_3_subject_other   String?
+  q3_4_satisfiedField  String?
+
+  // ===== SECTION 4: University Facilities (Likert 1-5) =====
+  q4_classroom         String?
+  q4_library           String?
+  q4_lab               String?
+  q4_computerLab       String?
+  q4_internet          String?
+  q4_multimedia        String?
+  q4_canteenHygiene    String?
+  q4_canteenPrice      String?
+  q4_washrooms         String?
+  q4_sports            String?
+  q4_transport         String?
+  q4_firstAid          String?
+
+  // ===== SECTION 5: Academic Challenges (Likert 1-5) =====
+  q5_1  String?
+  q5_2  String?
+  q5_3  String?
+  q5_4  String?
+  q5_5  String?
+  q5_6  String?
+  q5_7  String?
+  q5_8  String?
+  q5_9  String?
+  q5_10 String?
+  q5_11 String?
+
+  // ===== SECTION 6: Digital Skills & AI Usage =====
+  q6_1_devices          String? // comma-separated multi-select
+  q6_1_devices_other    String?
+  q6_2_digitalConfident String?
+  q6_3_software         String? // comma-separated multi-select
+  q6_3_software_other   String?
+  q6_4_softwareFreq     String?
+  q6_5_aiTools          String? // comma-separated multi-select
+  q6_5_aiTools_other    String?
+  q6_6_aiPurpose        String? // comma-separated multi-select
+  q6_6_aiPurpose_other  String?
+  q6_7_earnOnline       String?
+  q6_8_earnMethods      String? // comma-separated multi-select
+  q6_8_earn_other       String?
+  q6_9_onlineIncome     String?
+
+  // ===== SECTION 7: Financial Support & Scholarships =====
+  q7_1_financer        String?
+  q7_1_financer_other  String?
+  q7_2_tuitionFee      String?
+  q7_3_hasScholarship  String?
+  q7_4_scholarshipType String?
+  q7_4_scholarship_other String?
+  q7_5_scholarshipPct  String?
+  q7_6_scholarshipImpact String?
+  q7_7_scholarshipInfo String?
+  q7_8_financialDifficultyAffected String?
+  q7_9_expenseDifficulty String?
+
+  // ===== SECTION 8: Health & Well-being =====
+  q8_1_physicalHealth     String?
+  q8_2_stressFreq         String?
+  q8_3_sleepQuality       String?
+  q8_4_healthAffectsStudy String?
+  q8_5_knowSupportSource  String?
+  q8_6_healthAccess       String?
+  q8_7_firstAidTraining   String?
+  q8_8_firstAidCompulsory String?
+
+  // ===== SECTION 9: Employability & Internship =====
+  q9_1_internshipStatus  String?
+  q9_2_internshipCount   String?
+  q9_3_internshipRelevance String?
+  q9_4_uniSupportRating  String?
+  q9_5_careerEventsParticipated String?
+  q9_6_familyBusiness    String?
+  q9_7_employabilityConfidence String?
+  q9_8_lackingSkills     String?
+
+  // ===== SECTION 10: Career Aspirations =====
+  q10_1_decidedAfterGrad  String?
+  q10_2_primaryPlan       String?
+  q10_2_plan_other        String?
+  q10_3_preferredSector   String?
+  q10_3_sector_other      String?
+  q10_4_careerInfluence   String?
+  q10_4_influence_other   String?
+  q10_5_educationPrepCareer String?
+  q10_6_biggestConcern    String?
+  q10_6_concern_other     String?
+  q10_7_willingRelocate   String?
+  q10_8_careerSupport     String?
+  q10_8_support_other     String?
+
+  // Meta
+  ipAddress   String?
+  userAgent   String?
+  startedAt   DateTime @default(now())
+  submittedAt DateTime @default(now())
+
+  @@index([submittedAt])
+  @@index([q1_1_university])
+}
+
+model AdminUser {
+  id        String   @id @default(cuid())
+  username  String   @unique
+  password  String // bcrypt-hashed
+  createdAt DateTime @default(now())
+}
