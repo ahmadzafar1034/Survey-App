@@ -1,0 +1,614 @@
+                     UNIVERSITY STUDENT PROFILE,
+                   LEARNING EXPERIENCE AND FUTURE
+                             ASPIRATIONS
+                                     SURVEY — 2026
+                        National Survey Team — Practical Survey Exercise
+
+
+
+DEAR PARTICIPANT
+
+ You are invited to take part in this academic research survey. Your honest and thoughtful responses
+will help us understand the real student experience and improve university policies and services.
+Participation is completely voluntary and anonymous. All information you provide will be kept strictly
+confidential and used only in aggregate form for research purposes. You may skip any question you
+are not comfortable answering, and you may withdraw at any time.
+
+SURVEY IDENTIFICATION
+Processing Code:                                     Questionnaire ID:
+Date of Survey:                 /       / 2026       Enumerator ID:
+
+
+Screening: Are you currently a registered Bachelors (undergraduate) student at Any university?
+☐ Yes (Continue) ☐ No (Terminate interview)
+
+Survey Overview
+
+   1. Student profile
+   2. Family & Socioeconomic background
+   3. Educational journey
+   4. University Facilities & learning environment
+   5. Academic Challenges
+   6. Digital Skills & AI Usage
+   7. Financial support & Scholarships
+   8. Health & well-being
+   9. Employability & Internship
+   10. Career Aspiration
+Please tick (✓) the box that applies, or fill in the blank where required. There are no right or wrong
+answers — please answer as honestly as possible.
+
+SECTION 1: STUDENT PROFILE
+
+1.1. Which university are you currently enrolled in?
+
+         1. Fatima Jinnah Women University
+         2. Arid Agriculture University
+         3. COMSATS University
+         4. International Islamic University Islamabad
+         5. Quaid e Azam University
+         6. University of Gujrat
+         7. FAST NUCES
+         8. National University of Sciences and Technology
+         9. Air University Islamabad
+         10. University of Haripur
+         11. Other:
+
+1.2. What is your field of study/ degree program?
+
+        1. Computer Science & IT
+             (Computer Science, Software Engineering, IT, Data Science, Data Analytics,
+              AI, Bioinformatics)
+        2. Engineering
+            (Civil, Electrical, chemical, Mechanical, Bio-Medical, Aeroscope, Telecommunication)
+        3. Business & Management (BBA, Accounting & Finance, Economics)
+        4. Social Sciences (Psychology, Education, English, Mass Comm, IR, Sociology)
+        5. Natural Sciences (Physics, Chemistry, Math, Statistics, Biology, Environmental Science)
+        6. Medical & Health (MBBS, DPT, Pharmacy, Nursing, Nutrition)
+        7. Arts, Design & Architecture
+        8. Law
+        9. Agriculture & Veterinary
+        10. Other (Please specify):
+
+ 1.3. What is your name?
+
+
+
+  1.4. What is your age (in completed years)?
+1.5. What is your gender?
+      1. Male
+      2. Female
+1.6. What is your current marital status?
+      1. Never Married/Single
+      2. Married
+      3. Widow/Widower
+      4. Divorced
+      5. Separated
+      6. Nikah solemnized Rukhsati does not take place
+1.7. What is your current semester?
+       1. 1st Semester
+       2. 2nd Semester
+       3. 3rd Semester
+       4. 4th Semester
+       5. 5th Semester
+       6. 6th Semester
+       7. 7th Semester
+       8. 8th Semester
+       9. 9th Semester
+       10. 10th Semester
+       11. Other:
+.8. Current Residential Status
+
+       1.   Day scholar
+       2.   University hostel
+       3.   Private hostel / rented accommodation
+       4.   Living with relatives/ friends
+       5.   Other: ______
+
+1.9. Do you have any disability?
+
+      1. Yes
+      2. No
+      3. Prefer not to say
+SECTION 2: FAMILY AND SOCIO-ECONOMIC BACKGROUND
+
+2.1. What is the highest educational qualification of your Father / Mother?
+      1. Never attended school
+      2. Primary
+      3. Middle
+      4. Matriculation / O Levels / Secondary level
+      5. Intermediate / A Levels / Higher Secondary level
+      6. BA / BSc (2-year or 3-year Bachelor's Degree)
+      7. B.Ed.
+      8. B. Com
+      9. MBBS / BDS / Pharm-D
+      10. MA / MSc (2-year Master's Degree)
+      11. BS / BE (4-year Bachelor's Degree)
+      12. M.Ed.
+      13. M.Phil. / MS
+      14. Ph.D.
+      15. Other (Specify):
+
+
+2.2. What is your family's primary source of Income?
+
+       1.   Government employment
+       2.   Private employment
+       3.   Business / Self-employed
+       4.   Agriculture / Farming
+       5.   Daily wage labor
+       6.   Pension
+       7.   Other: ______________
+
+2.3. What is your family 's housing status?
+
+       1.   Own house
+       2.   Hiring
+       3.   Govt Accommodation
+       4.   Rented house
+       5.   Living with Relative/Friend/ Rent free
+       6.   Others specify
+
+2.4. How many siblings do you have?
+       1. 0
+       2. 1
+       3. 2
+       4. 3
+       5. 4 or more
+2.5. What is your total monthly household Income?
+      1. Less than Rs. 50,000
+      2. Rs. 50,000 - Rs. 99,999
+      3. Rs. 100,000 - Rs. 199,999
+      4. Rs. 200,000 - Rs. 299,999
+      5. Rs. 300,000 - Rs. 499,999
+      6. Rs. 500,000 - Rs. 699,999
+      7. Rs. 700,000 - Rs. 999,999
+      8. Rs. 1,000,000 or More
+
+
+
+
+SECTION 3: EDUCATIONAL JOURNEY
+
+ 3.1. What was your percentage in intermediate (HSSC/A-level):
+       1. Below50%
+       2. 50%-59%
+       3. 60%-69%
+       4. 70%-79%
+       5. 80% above
+
+3.2. Why did you choose this university?
+
+        1. By your own choice
+        2. By parents’ choice
+        3. By a friend’s choice
+        4. Good Reputation
+3.3. Reason for choosing current subject:
+        1. Personal Interest
+        2. More Career options
+        3. Parents’ choice
+        4. Teacher's / Counsellor choice
+        5. By relative / Friend’s choice
+        6. Others _________
+3.4. Are you satisfied with chosen field?
+        1. Yes
+        2. No
+SECTION 4: UNIVERSITY FACILITIES & LEARNING ENVIRONMENT
+ 4.1. How satisfied are you with the following university facilities and services?
+Please indicate your level of agreement with each statement below by marking the appropriate option.
+
+                                                         1                                          5
+                                                                    2         3         4
+Statement                                            Strongly                                   Strongly
+                                                                 Disagree   Neutral   Agree
+                                                     Disagree                                    Agree
+Classroom environment (seating, lighting,
+                                                       ◯            ◯         ◯        ◯           ◯
+ventilation) is comfortable.
+Library resources / study spaces are adequate.         ◯            ◯         ◯        ◯           ◯
+Laboratory facilities support practical learning.      ◯            ◯         ◯        ◯           ◯
+Computer labs are equipped with necessary
+                                                       ◯            ◯         ◯        ◯           ◯
+hardware / software.
+Internet/Wi-Fi services meet academic needs.           ◯            ◯         ◯        ◯           ◯
+Multimedia facilities (projectors, smartboards)
+                                                       ◯            ◯         ◯        ◯           ◯
+function effectively.
+The canteen provides hygienic / quality food.          ◯            ◯         ◯        ◯           ◯
+Food and beverages in the canteen are
+                                                       ◯            ◯         ◯        ◯           ◯
+reasonably priced.
+Washrooms are clean, functional / properly
+                                                       ◯            ◯         ◯        ◯           ◯
+maintained.
+Sports and recreational facilities are accessible.     ◯            ◯         ◯        ◯           ◯
+University transport services are safe / reliable.     ◯            ◯         ◯        ◯           ◯
+First aid and medical services are available
+                                                       ◯            ◯         ◯        ◯           ◯
+when required.
+
+
+SECTION 5: ACADEMIC CHALLENGES
+Please indicate your level of agreement with each statement below by marking the appropriate option.
+
+                                                         1          2         3        4            5
+Statement                                             Strongly
+                                                                 Disagree   Neutral   Agree   Strongly Agree
+                                                      Disagree
+5.1. The syllabus taught in my program is
+up to date.
+                                                        ◯          ◯         ◯         ◯           ◯
+5.2. The curriculum provides sufficient
+practical knowledge / skills.
+                                                        ◯          ◯         ◯         ◯           ◯
+5.3. The curriculum maintains a balanced
+focus between theory and practical work.
+                                                        ◯          ◯         ◯         ◯           ◯
+5.4. The amount of content in the syllabus
+can be reasonably covered within a single               ◯          ◯         ◯         ◯           ◯
+semester.
+5.5. The overall academic workload is
+manageable for students.
+                                                        ◯          ◯         ◯         ◯           ◯
+5.6. The examination format fairly tests
+what is actually taught in class.
+                                                        ◯          ◯         ◯         ◯           ◯
+5.7. The grading process at my university is
+transparent / consistent.
+                                                        ◯          ◯         ◯         ◯           ◯
+5.8. Students have equal access to internship
+opportunities.
+                                                        ◯          ◯         ◯         ◯           ◯
+                                                     1          2         3          4            5
+Statement                                         Strongly
+                                                             Disagree   Neutral     Agree   Strongly Agree
+                                                  Disagree
+5.9. Students have equal access to research
+project opportunities.
+                                                    ◯          ◯         ◯          ◯            ◯
+5.10. Students feel comfortable seeking
+academic help from their teachers.
+                                                    ◯          ◯         ◯          ◯            ◯
+5.11. Teachers treat all students impartially /
+fairly throughout their academic experience.
+                                                    ◯          ◯         ◯          ◯            ◯
+
+
+SECTION 6: DIGITAL SKILLS & AI USAGE
+
+6.1. Which of the following digital devices do you own or have regular access to?
+       1. Laptop
+       2. Desktop computer
+       3. Smartphone
+       4. Tablet/iPad
+       5. None of the above
+6.2. How confident are you in using digital devices for your academic work?
+       1. Not at all confident
+       2. Slightly confident
+       3. Moderately Confident
+       4. Very confident
+       5. Extremely confident
+
+6.3. Which of the following digital tools/software do you use?
+
+        1.   Microsoft Office (Word, Excel, PowerPoint)
+        2.   Google Workspace (Docs, Sheets, Slides)
+        3.   Statistical software (SPSS, R, Stata, etc.)
+        4.   Programming languages (Python, SQL, MATLAB, etc.)
+        5.   LaTeX
+        6.   Online collaboration tools (Zoom, Google Meet, Microsoft Teams)
+        7.   Graphic design tools (Canva, Photoshop, Illustrator, etc.)
+        8.   None of the above
+        9.   Other: _____________
+
+6.4. How often do you use digital tools or software for academic purposes?
+
+        1.   Daily
+        2.   Several times a week
+        3.   Weekly
+        4.   Occasionally
+        5.   Rarely
+        6.   Never
+6.5. Which AI tools have you used for academic or other purposes?
+        1. ChatGPT
+        2. Google Gemini
+        3. Microsoft Copilot
+        4. Claude
+        5. Perplexity AI
+        6. GitHub Copilot
+        7. Grammarly AI
+        8. I have not used any AI tool
+        9. Other: _____________
+6.6. For what purposes do you use AI tools?
+        1. Understanding academic concepts
+        2. Completing assignments or projects
+        3. Research and information gathering
+        4. Writing, editing, or proofreading
+        5. Coding or data analysis
+        6. Generating ideas or content
+        7. I do not use AI tools
+        8. Other: _____________
+
+6.7. Do you use digital platforms or AI tools to earn income?
+
+       1. Yes
+       2. No (Skip to Section 7)
+
+6.8. Which methods do you use to earn income online?
+
+       1.   Freelancing
+       2.   Online teaching or tutoring
+       3.   Content creation
+       4.   AI-related services
+       5.   Online selling/e-commerce
+       6.   Social media monetization
+       7.   Other: _____________
+
+6.9. What is your approximate monthly income from online sources?
+
+       1.   Less than PKR 50,000
+       2.   PKR 50,000–100,000
+       3.   PKR 100,001–200,000
+       4.   Above PKR 200,000
+SECTION 7: FINANCIAL SUPPORT & SCHOLARSHIPS
+
+7.1. Who primarily finances your education?
+
+       1.   Parents / Guardians
+       2.   Self-earned income (Job / Business / Freelancing)
+       3.   Scholarship / Stipend
+       4.   Education loan
+       5.   Siblings / Relative
+       6.   Other (Specify): ______________________
+
+7.2. What is your approximate tuition fee per semester?
+
+       1.   Below 50k
+       2.   50k to 1lakh
+       3.   1lakh to 2lakh
+       4.   Above 2 lakhs
+
+7.3. Are you currently receiving any scholarship, stipend or financial aid?
+
+       1. Yes (Go to Q7.4)
+       2. No (Skip to Q7.7)
+
+7.4. What type of scholarship or aid do you receive?
+
+       1.   Merit-based scholarship
+       2.   Need-based scholarship
+       3.   Government/HEC scholarship
+       4.   University-funded scholarship
+       5.   Private / Corporate / NGO scholarship
+       6.   Other (Specify):
+
+7.5. Approximately what percentage of your educational expenses is covered by the
+      scholarship /aid?
+
+       1.   Less than 25%
+       2.   25%-50%
+       3.   51%-75%
+       4.   More than 75%
+
+7.6. Has your scholarship had a positive impact on your academic studies?
+
+       1. Yes
+       2. No
+7.7. The university provided clear and timely information about available scholarships.
+
+       1.   Strongly disagree
+       2.   Disagree
+       3.   Neither agree nor disagree
+       4.   Agree
+       5.   Strongly agree
+
+7.8. During the current academic year, have financial difficulties affected your attendance,
+    performance or ability to continue studying?
+
+       1. Yes
+       2. No
+
+7.9. How difficult is it for you / your family to meet your education-related expenses (books,
+    transport, hostel, etc.)?
+
+      1.    Not difficult
+      2.    Slightly difficult
+      3.    Moderately difficult
+      4.    Very difficult
+      5.    Extremely difficult
+
+
+
+SECTION 8: HEALTH & WELL-BEING
+
+ 8.1. How would you rate your physical health?
+      1.    Excellent
+      2.    Very good
+      3.    Good
+      4.    Fair
+      5.    Poor
+      6.    Very poor
+ 8.2. During the past four weeks, how often did stress / worry affect your daily routine?
+      1.    Never
+      2.    Rarely
+      3.    Sometimes
+      4.    Often
+      5.    Almost every day
+8.3. Over the past four weeks, how satisfied have you been with the quality of your sleep?
+      1. Very satisfied
+      2. Satisfied
+      3. Neutral / Moderate
+      4. Dissatisfied
+      5. Very dissatisfied
+8.4. During your previous university semester, how often did your physical / emotional
+     health makes it difficult to attend classes / complete academic work?
+
+      1.   Never
+      2.   Rarely
+      3.   Sometimes
+      4.   Often
+      5.   Almost every day
+8.5. If you needed support for stress or emotional well-being, would you know where to seek
+    help at your university?
+      1.   Yes, clearly
+      2.   Somewhat / Know a service exists
+      3.   Not sure
+      4.   No, not aware
+8.6. How easy is it to access health / first aid services at your university?
+      1.   Very easy
+      2.   Fairly easy
+      3.   Neutral / Moderate
+      4.   Somewhat difficult
+      5.   Very difficult
+      6.   Not aware
+8.7. Have you ever received any formal training in First Aid?
+      1. Yes
+      2. No
+      3. Not sure
+8.8. Do you think first aid training should be compulsory in schools, colleges/
+    universities?
+      1. Yes
+      2. No
+      3. Not sure
+SECTION 9: EMPLOYABILITY & INTERNSHIP
+ 9.1. What is your current internship status?
+
+      1.   Completed at least one internship
+      2.   Currently doing an internship
+      3.   Looking for an internship
+      4.   Have not done / looked for one
+
+   If no internship has been completed or started, skip to Q9.4 or 9.6.
+
+9.2. How many internships have you completed, including the current one?
+
+      1.   One
+      2.   Two
+      3.   Three or more
+      4.   None
+
+9.3. How relevant was your most recent internship to your field of study?
+
+      1.   Highly relevant
+      2.   Somewhat relevant
+      3.   Slightly relevant
+      4.   Not relevant
+
+9.4. How would u rate your university's support for internship / career placement?
+
+      1.   Very Poor
+      2.   Poor
+      3.   Average
+      4.   Good
+      5.   Very
+
+9.5. Have you participated in any career fair, career counselling session, skill workshop or
+     Industry talk organized by your university?
+
+      1.   Yes, once
+      2.   Yes, more than once
+      3.   No
+      4.   Not aware of such activities
+
+9.6. Are you involved in any family business?
+
+      1. Yes
+      2. No
+9.7. How confident do you feel about your employability after graduation?
+
+      1.        Very confident
+      2.        Confident
+      3.        Neither confident nor unconfident
+      4.        Very unconfident
+      5.        Unconfident
+
+ 9.8. Which skills or experiences are most lacking in your preparation for the job market?
+
+      1.        Technical / field-specific skills
+      2.        Communication skills
+      3.        Problem-solving skills
+      4.        Digital / computer skills
+      5.        Industry exposure
+      6.        Networking
+      7.        CV / interview skills
+      8.        Teamwork / leadership
+      9.        None
+
+
+
+
+SECTION 10: CAREER ASPIRATIONS
+
+10.1. Have you decided what you want to do immediately after graduation?
+
+           1. Yes
+           2. No
+           3. Not sure
+
+ 10.2. Which option best describes your primary plan after graduation?
+
+           1.     Seek employment
+           2.      Continue higher studies (Note: If selected, choose Option 9 in Q10.3)
+           3.      Start a business / entrepreneurship
+           4.     Join / expand family business
+           5.     Prepare for civil services / competitive exams
+           6.     Move abroad for work
+           7.     Move abroad for education (Note: If selected, choose Option 9 in Q10.3)
+           8.      Other:
+10.3. Which sector would you most prefer to work in?
+
+        1. Federal / provincial government
+        2. Public sector organization
+        3. Private sector
+        4. NGO / development sector
+        5. International organization
+        6. Self-employment / startup
+        7. Academia / research
+        8. Not decided
+        9. Not applicable (Planning further education / not entering the workforce immediately)
+        10. Other:
+
+10.4. Which factor has the greatest influence on your career choice?
+
+        1.   Personal interest / passion
+        2.    Job opportunities / market demand
+        3.     Expected salary / financial stability
+        4.   Family expectations
+        5.   Job security
+        6.   Social status / prestige
+        7.    Other:
+
+10.5. My current education is adequately preparing me for my preferred career path.
+
+        1.   Strongly agree
+        2.   Agree
+        3.   Neutral
+        4.   Disagree
+        5.   Strongly disagree
+
+10.6. What is your biggest concern about your future career?
+
+        1.   Unemployment / job insecurity
+        2.   Low salary / financial instability
+        3.   Difficulty pursuing higher studies
+        4.   Family responsibilities / pressure
+        5.   Intense competition
+        6.   Uncertainty about career direction
+        7.   Choosing the wrong career
+        8.   Other:
+10.7. Would you be willing to relocate to another city or country for a better career opportunity?
+
+        1. Yes
+        2. No
+        3. Maybe / depends on circumstances
+
+10.8. What type of career support would help you most at present?
+
+        1.   Career counselling / mentoring
+        2.   Internship / placement opportunities
+        3.   Technical skill training
+        4.   Communication / soft-skill training
+        5.    CV and interview preparation
+        6.    Entrepreneurship / startup support
+        7.    Networking with employers / alumni
+        8.   Other:
+
